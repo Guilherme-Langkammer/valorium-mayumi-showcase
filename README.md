@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./bannerMayumi.png" alt="Mayumi Confeitaria — Custom Full Stack Platform by Valorium Sistemas" width="100%">
+</p>
+
 <div align="center">
 
 # Mayumi Confectionery
